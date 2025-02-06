@@ -5,7 +5,9 @@ A Python-based cryptocurrency tracker that provides real-time price updates and 
 ## 🚀 Features
 
 ✅ **Tkinter GUI** - Displays cryptocurrency data in user-friendly interface
+
 ✅ **Matplotlib Charts** - Visualizes price trends with real-time updates
+
 ✅ **Live API Data** - Fetches cryptocurrency prices from [CoinGecko](https://www.coingecko.com/en/api)
 
 ## 💡 Future Improvements
